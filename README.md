@@ -1,10 +1,5 @@
 <h1 align="center">✨ 안녕하세요! hak0622 입니다! ✨</h1>
 
-<p align="center">
-  개발을 사랑하는 개발자입니다. 🚀<br>
-  새로운 기술을 배우고, 효율적인 코드를 작성하는 것을 즐깁니다! 💡
-</p>
-
 ---
 
 ## 🛠 기술 스택  
@@ -30,15 +25,4 @@
 - 🏆 **SQLD** (SQL 개발자)  
 - 🏆 **정보처리기사**
 
----
 
-## 📬 연락처  
-<p align="center">
-  <a href="https://github.com/hak0622">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
----
-
-<p align="center">✨ 함께 성장하며 더 나은 개발자가 되기를 바랍니다! ✨</p>
