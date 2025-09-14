@@ -17,3 +17,4 @@
 | 📈 **그때 할 걸** | 회고형 금융상품 추천 서비스 | [완료](https://github.com/Halggeol) |
 | 🎑 **AMCN** | AI 기반 카드뉴스 자동 생성 서비스 |[완료](https://github.com/hak0622/AutoMakeCardNews) |
 | 📢 **온마켓** | 소상공인용 카드뉴스·홍보 콘텐츠 제작·배포 서비스 | [완료](https://github.com/ONMarket-TEAM) |
+| ⚫⚪ **오목 게임** | 소켓통신을 이용한 오목 게임 및 채팅(개인)| [완료](https://github.com/hak0622/omokgame) |
