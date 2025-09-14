@@ -1,28 +1,19 @@
-<h1 align="center">✨ 안녕하세요! hak0622 입니다! ✨</h1>
+## 🎓 학력
+- 소프트웨어전공
 
----
+## 🏆 수상 경력
+- `2025.09` KB IT's Your Life 해커톤 **장려상 수상** (팀명: 온마켓)
+- `2025.08` KB IT's Your Life 6기 종합실무 프로젝트 **최우수상 수상** (팀명: 그때 할 걸)
+- `2024.11` 캡스톤 경진대회 **최우수상 수상** (팀명: AMCN)
 
-## 🛠 기술 스택  
-### 💻 사용 가능한 언어  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-</p>
+## 📜 자격증
+- `2024.09` 정보처리기사
+- `2023.10` SQLD
 
-### ⚙️ 프레임워크 & 도구  
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+## 📂 프로젝트
 
----
-
-## 📜 자격증  
-- 🏆 **SQLD** (SQL 개발자)  
-- 🏆 **정보처리기사**
-
-
+| 프로젝트명 | 설명 | 깃허브 |
+|------------|------|--------|
+| 📈 **그때 할 걸** | 회고형 금융상품 추천 서비스 | [완료](https://github.com/Halggeol) |
+| 🎑 **AMCN** | AI 기반 카드뉴스 자동 생성 서비스 |[완료](https://github.com/hak0622/AutoMakeCardNews) |
+| 📢 **온마켓** | 소상공인용 카드뉴스·홍보 콘텐츠 제작·배포 서비스 | [완료](https://github.com/ONMarket-TEAM) |
